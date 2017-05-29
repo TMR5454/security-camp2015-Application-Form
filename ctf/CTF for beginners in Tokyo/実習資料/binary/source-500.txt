@@ -1,0 +1,40 @@
+FLAG:	.string	"ctf4b{Saturn_is_born_on_%d}\n"
+
+read_me:
+	push	ebp
+	mov	ebp, esp
+	mov	eax, 2
+	mov	ebx, 5
+	mov	ecx, 1
+        mov	edx, eax
+	mov	edi, 1
+	mov	esi, 997
+Y1:
+	imul	eax, edx
+        add	ecx, edi
+	cmp	ecx, ebx
+	jne	Y1
+	sub	ecx, edi
+	sub	ecx, edi
+	mov	edx, ebx
+Y2:
+        imul	ebx, edx
+	sub	ecx, edi
+	test	ecx, ecx
+	jnz	Y2
+	imul	eax, ebx
+	imul	eax, esi
+	mov	ebx, 11
+	mov	ecx, 102
+	mov	edx, 0
+D:
+	add	edx, ebx
+	sub	ecx, 1
+	test	ecx, ecx
+	jnz	D
+	add	eax, edx
+	push	eax
+	push	offset FLAG
+	call	printf
+	leave
+	ret

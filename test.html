@@ -1,0 +1,13 @@
+<script>
+function makeUrlLinks( text ){
+ var html = text.replace( /[\w]+:\/\/[\w\.\-]+\/[^\r\n \t<>"']*/g, function( url ){
+   return "<a href=" + url + ">" + url + "</a>";
+   } );
+ document.getElementById( "output" ).innerHTML = html;
+}
+function r() {
+	makeUrlLinks(document.getElementById("t").value);
+}
+</script>
+<textarea id="t" onchange="r()"></textarea>
+<div id="output"></div>

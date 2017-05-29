@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="Thu, 01 Dec 1994 16:00:00 GMT">
+<meta name="generator" content="Movable Type 5.2.10">
+<link rel="stylesheet" href="/2014/styles.css" type="text/css">
+<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="/atom.xml">
+<script type="text/javascript" src="/2014/mt.js"></script>
+<script type="text/javascript" src="/2014/rollover.js"></script>
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/rsd.xml">
+    <title>SECCON 2014</title>
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="日本国内最大のセキュリティコンテスト「SECCON 2014」">
+<meta property="og:image" content="http://2014.seccon.jp/2014/seccon_200x200.png">
+<meta property="og:url" content="http://2014.seccon.jp/">
+<meta property="og:description" content="今年度のSECCON2014では、女性限定イベントCTF for GIRLSを実施し、情報セキュリティ技術者育成の裾野拡大を狙います。今年度からは新たに英語によるオンライン予選を実施し、全国大会の決勝戦では海外のハッカーチームも参戦できるような体制を整えます。">
+<meta property="og:site_name" content="SECCON 2014">
+
+</head>
+
+<body id="theme-from-html" class="mt-main-index layout-wtt">
+
+<!--ヘッダー -->
+	<div id="header_wrap">
+	<img src="/2014/seccon_logo.png" width="304" height="52" alt="SECCON" class="logo"></div>
+
+<!--グローバルナビ -->
+	<ul id="menu">
+		<li><a href="/index.html">SECCON 2014 開催</a></li>
+		<li><a href="/committee.html">実行委員会</a></li>
+		<li><a href="/mailmagazine.html">メルマガ</a></li>
+		<li><a href="/contact.html">お問い合わせ</a></li>
+		<li><a href="http://2013.seccon.jp/past.html">過去の大会</a></li>
+	</ul>
+
+	<!--コンテンツスタート -->
+	<div id="wrap" class="clearfix">
+		<!--コンテンツ -->
+		<div class="container_wrap">
+
+             <div class="container">
+             <h2 class="midashi">セキュリティコンテスト「SECCON 2014」開催概要を発表</h2>
+               <div class="date">2014年6月10日(火)</div>
+<p>
+特定非営利活動法人日本ネットワークセキュリティ協会（事務局：東京都港区、会長：田中英彦、以下「JNSA」）は、日本における最大規模のCTF大会<sup>※1</sup>である「SECCON 2014」の実施計画をまとめ、本日公表しました。昨年度に実施したセキュリティコンテストSECCON2013は、所属や年齢を問わず、学生から社会人まで参加できる日本最大の「ハッカー大会」で、日本全国より1,312人（509チーム）<sup>※2</sup>の参加がありました。今年度の「SECCON 2014」は、全大会で累計2000人の参加を計画し、日本最大のセキュリティコンテストの実施を目指します。
+</p>
+
+<p>■ JNSA プレスリリース 2014/6/10 <img src="http://www.jnsa.org/images/obj/ic_new_s.gif" width="31" height="13" alt="[New]" /><br />
+　<a href="http://www.jnsa.org/press/2014/140610.pdf" target="_blank">セキュリティコンテスト「SECCON2014」実施のご案内　<img src="http://www.jnsa.org/images/obj/ic_pdf.gif" width="22" height="24" border="0" align="absmiddle" /> (348KB)</a></p>
+
+<div><img src="/2014/seccon2014image.png" alt="SECCON 2014 実施概要・イメージ"></div>
+
+<p>
+今年度のSECCON2014では、女性限定イベントCTF for GIRLSを実施し、情報セキュリティ技術者育成の裾野拡大を狙います。今年度からは新たに英語によるオンライン予選を実施し、全国大会の決勝戦では海外のハッカーチームも参戦できるような体制を整えます。
+</p>
+
+<p class="title">SECCON 2014 開催大会スケジュール</p>
+
+<h4>■ 6/28(土) 第1回 CTF for Beginners</h4>
+<p>※ 有志による入門者向けCTF勉強会です（予選シード枠はありません）【満員御礼】<br />
+URL：<a href="http://2014.seccon.jp/2014_06_CTF_for_Beginners.html">http://2014.seccon.jp/2014_06_CTF_for_Beginners.html</a> ←詳細はこちら</p>
+
+<h4>■ 6/29(日) 第1回 CTF for GIRLS</h4>
+<p>※ 女性限定CTFワークショップです（予選シード枠はありません）【満員御礼】<br />
+URL：<a href="http://2014.seccon.jp/2014_06_CTF_for_GIRLS.html">http://2014.seccon.jp/2014_06_CTF_for_GIRLS.html</a> ←詳細はこちら</p>
+
+<h4>■ 7/6(日) 第2回 CTF for Beginners</h4>
+<p>※ 有志による入門者向けCTF勉強会です（第1回と同じ内容です）【満員御礼】<br />
+URL：<a href="http://2014.seccon.jp/2014_07_CTF_for_Beginners2.html">http://2014.seccon.jp/2014_07_CTF_for_Beginners2.html</a> ←詳細はこちら</p>
+
+<h4>■ 7/19(土)～ オンライン予選（日本語）</h4>
+<p>※ 近日情報公開予定（問題の難易度は低く設定される予定です）</p>
+
+<div><img src="/2014/seccon2014schedule.png" alt="SECCON 2014 開催スケジュール"></div>
+
+<br />
+<p class="title">■ 連携イベント・連携大会</p>
+<p>他団体主催の大会との協力・連携を通じて、相互に人材交流を行ない、参加者の将来のキャリア形成の一助とします。
+</p>
+<h4>■SANS NetWars Tournament 2014への予選シード権の提供</h4>
+
+<p style="border:#CCC 1px solid; padding:1em; margin:1em; background:#FAFAFA;width:540px;">
+●SANS NetWars Tournament 2014<br />
+主催：NRIセキュアテクノロジーズ株式会社<br />
+協力：SANS Institute<br />
+日程：2014年8月30日(土)～31日(日)<br />
+会場：秋葉原UDX（予定）<br />
+（詳細：<a href="http://www.nri-secure.co.jp/event/2014/netwars.html" target="_blank">http://www.nri-secure.co.jp/event/2014/netwars.html</a> ）
+</p>
+<p>NRIセキュアテクノロジーズ株式会社主催の学生向けセキュリティトレーニングイベント「SANS NetWars Tournament 2014」で優秀な成績を収めたチームに対して、SECCON全国大会決勝戦へ出場できる予選シード権を提供します。</p>
+
+<h4>■MWS2014/MWS Cup2014との相互連携について</h4>
+
+<p style="border:#CCC 1px solid; padding:1em; margin:1em; background:#FAFAFA;width:540px;">
+●マルウェア対策研究人材育成ワークショップ 2014 (MWS 2014)<br />
+主催：情報処理学会 コンピュータセキュリティ研究会 MWS組織委員会<br />
+日程：2014年10月22日(水)～24日(金)<br />
+会場：札幌コンベンションセンター<br />
+（詳細：<a href="http://www.iwsec.org/mws/2014/" target="_blank">http://www.iwsec.org/mws/2014/</a> ）
+</p>
+
+<p>2014年10月に札幌で開催されるマルウェア対策研究人材育成ワークショップ 2014（略称：MWS 2014、主催：情報処理学会コンピュータセキュリティ研究会MWS組織委員会）とSECCON 2014との相互の人材交流を目的として、以下の連携を行ないます。</p>
+<ol>
+<li>SECCON参加チームのMWS/MWS Cup派遣<br />
+SECCON2014オンライン予選（日本語）で優秀な成績を収めた上位チームの中から、MWSの研究用データセットや論文投稿に興味がある方々をSECCON実行委員会が選抜し、MWS/MWS Cupに派遣します。</li>
+<li>MWS Cup参加チームのSECCON全国大会招待<br />
+MWS組織委員会が推薦するMWS CupチームをSECCON2014全国大会に招待します。</li>
+</ol>
+
+<h4>■cybozu.comバグハンター合宿</h4>
+<p style="border:#CCC 1px solid; padding:1em; margin:1em; background:#FAFAFA;width:540px;">
+●cybozu.comバグハンター合宿<br />
+主催：サイボウズ株式会社／SECCON実行委員会<br />
+日程：2014年8月6日(水)～7日(木)<br />
+会場：リフレフォーラム（東京）<br />
+</p>
+<p>近日、詳細発表予定です。</p>
+
+<p class="title">■メルマガ申し込み</p>
+<p>
+各地で開催される予選大会やCTF勉強会の告知を受け取るメールマガジンの登録申込みを本日より受け付けます。
+</p>
+<p><a href="/mailmagazine.html">[メルマガ登録ページ]</a></p>
+
+</div>
+       </div><!--/container_wrap -->
+
+       <!--重要なお知らせ -->
+       <div class="information_wrap">
+         <div><img src="/2014/infomation.png" width="276" height="30" alt="重要なお知らせ"></div>
+                  
+       </div>
+
+    <!--企業ロゴ一覧 -->
+       <br />
+       <div class="logo_wrap">
+             <div class="imp_box">
+             <center>
+    協賛企業一覧<br />
+    <br />
+    <div class="sponsor_header">ゴールドスポンサー</div><br />
+    <a href="http://jp.fujitsu.com/" target="_blank"><img src="/logo/fujitsu.png" alt="富士通株式会社"></a>
+    <br /><br />
+    <a href="http://www.nri-secure.co.jp/" target="_blank"><img src="/logo/nrisecure.png" alt="エヌ・アール・アイ・セキュアテクノロジーズ株式会社" width="223" height="59" border="0"></a>
+    <br /><br />
+    <a href="http://www.sakura.ad.jp/" target="_blank"><img src="/logo/sakura.png" alt="さくらインターネット株式会社" width="227" height="46" border="0"></a>
+    <br /><br />
+    <br />
+    <div class="sponsor_header">シルバースポンサー</div><br />
+    <a href="http://www.softbanktech.co.jp/" target="_blank"><img src="/logo/sbt.png" alt="ソフトバンク・テクノロジー株式会社" border="0"></a>
+    <br /><br />
+    <a href="http://www.dit.co.jp/" target="_blank"><img src="/logo/dit.png" alt="株式会社ディアイティ" border="0"></a>
+    <br /><br />
+    <a href="http://dena.com/" target="_blank"><img src="/logo/dena.png" width="105" height="55" alt="株式会社ディー・エヌ・エー"></a>
+    <br /><br />
+    <a href="http://www.dell.com/learn/jp/ja/jpbsd1/security" target="_blank"><img src="/logo/dell.png" alt="デル株式会社"></a>
+    <br /><br />
+    <a href="http://www.ibm.com/jp/ja/" target="_blank"><img src="/logo/ibm.png" alt="日本アイ・ビー・エム株式会社" width="155" height="61" border="0"></a>
+    <br />
+    <a href="http://jpn.nec.com/" target="_blank"><img src="/logo/nec.png" width="220" height="130" alt="日本電気株式会社" border="0"></a>
+    <br />
+    <a href="http://www.hitachi-systems.com/" target="_blank"><img src="/logo/hitachisystems.jpg" alt="株式会社日立システムズ" width="182" height="76" border="0"></a>
+    <br /><br />
+    <br />
+    <div class="sponsor_header">ブロンズスポンサー</div><br />
+    <a href="http://www.scsk.jp/sp/sys/index.html" target="_blank"><img src="/logo/scsk.png" alt="SCSK株式会社" border="0"></a>
+    <br /><br />
+    <a href="http://www.kaspersky.co.jp/" target="_blank"><img src="/logo/kaspersky.png" alt="株式会社Kaspersky Labs Japan" border="0"></a>
+    <br /><br />
+    <a href="http://www.kiis.or.jp/" target="_blank"><img src="/logo/kiis.png" width="107" height="69" alt="一般社団法人関西情報センター" border="0"></a>
+    <br /><br />
+    <a href="https://codeiq.jp/" target="_blank"><img src="/logo/codeiq.png" width="136" height="61" alt="codeIQ" border="0"></a>
+    <br />
+    <a href="http://cybozu.co.jp/" target="_blank"><img src="/logo/cybozu.png" alt="サイボウズ株式会社" border="0"></a>
+    <br /><br />
+    <a href="http://jp.trendmicro.com/jp/home/" target="_blank"><img src="/logo/trendmicro.png" alt="トレンドマイクロ株式会社" border="0"></a>
+    <br /><br />
+    <a href="http://jprs.jp/" target="_blank"><img src="/logo/jprs.gif" width="128" height="64" alt="株式会社日本レジストリサービス"></a>
+    <br /><br />
+    <a href="http://heartbeats.jp/" target="_blank"><img src="/logo/heartbeats.png" width="165" height="36" alt="株式会社ハートビーツ" border="0"></a>
+    <br /><br />
+    <a href="http://www.lac.co.jp/" target="_blank"><img src="/logo/lac.png" width="88" height="67" alt="株式会社ラック" border="0"></a>
+    <br /><br />
+    <div class="sponsor_header">（予定）</div><br />
+<pre style="text-align:center;line-height:2em">
+(ISC)<sup>2</sup> Japan
+テンプスタッフ・テクノロジー
+</pre>
+<br />
+
+    <font size="-1">※2014年6月25日現在<br />
+    <font color="red">※協賛企業様、引き続き募集中</font></font>
+    </center>
+ 
+             </div>
+       </div>
+
+    </div><!--/wrap -->
+
+<div id="footer">Copyright &copy; SECCON 2014 実行委員会</div>
+</body></html>

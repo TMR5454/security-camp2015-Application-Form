@@ -1,0 +1,15 @@
+FLAG: .string "Hello_%d"
+
+read_me:
+	push	ebp
+	mov	ebp, esp
+	sub	esp, 8
+	mov	eax, 1337
+	mov	edx, 23
+	imul	eax, edx
+	add	eax, 586
+	push	eax
+	push	offset FLAG
+	call	printf
+	leave
+	ret

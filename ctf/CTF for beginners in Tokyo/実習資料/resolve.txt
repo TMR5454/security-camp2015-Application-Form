@@ -1,0 +1,20 @@
+1. sqlインジェクションを使って、adminでパス入れ
+' or 1'
+
+2. ネットワークの問題 2
+TCP Followstream で login してみる
+telnetでログインしてみる
+
+3. ネットワーク 3
+ftp-data で上から2番目見ると、なんかみれる
+
+4. sql injection2
+   idとpassにゲストを入れて、
+'guest' union select admin=admin' と 'oorr でも解ける
+
+5. phpのソースコードをbase64に実装してうまく適用すればよい
+php:/filter/convert.base64
+という方法をやればよい。
+事前資料には、乗ってたか？
+phpの機能であるrequired と php とかを見れる。
+phpをbase64に変換である。?
